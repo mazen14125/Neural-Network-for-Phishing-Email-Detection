@@ -6,7 +6,7 @@ This project demonstrates the use of a deep learning model to classify emails as
 - **Dataset**: Enron Email Dataset ([Kaggle link](https://www.kaggle.com/datasets/advaithsrao/enron-fraud-email-dataset))
 - **Text Preprocessing**: Tokenization, stemming, and TF-IDF vectorization
 - **Model**: Neural network built using **Keras/TensorFlow**
-- **Accuracy**: Achieved [X]% accuracy in phishing email classification
+- **Accuracy**: Achieved [84]% accuracy in phishing email classification
 
 ## Technologies Used
 - **Python**: Programming language
