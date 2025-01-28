@@ -23,4 +23,4 @@ This project demonstrates the use of a deep learning model to classify emails as
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/mazen14125/Neural-Network-for-Phishing-Email-Detection>
